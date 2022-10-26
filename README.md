@@ -1,2 +1,1 @@
 # calculator-evgeniy-shkudov
-ges
